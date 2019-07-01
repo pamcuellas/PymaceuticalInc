@@ -1,1 +1,1 @@
-# PymaceuticalInc
+# PymaceuticalsInc
